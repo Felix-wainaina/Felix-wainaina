@@ -10,7 +10,7 @@ I'm a Computer Science student at JKUAT, passionate about **Full-Stack Developme
 
 ## 🚀 Projects
 - [Disease Prediction Toolkit](https://github.com/Felix-wainaina/Disease-Prediction-Toolkit) – Predict diseases using ML models.
-- [Lovable Website](https://github.com/Felix-wainaina/Lovable) – Custom frontend project.
+- [Episim Africa]([https://github.com/Felix-wainaina/Lovable](https://github.com/Judhunja/episim-africa.git)) – Disease modelling project.
 - [Healthcare PWA](https://github.com/Felix-wainaina/Healthcare-PWA) – Progressive Web App for AI-based health diagnostics.
 
 ## 📫 Connect with Me
