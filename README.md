@@ -10,7 +10,7 @@ I'm a Computer Science student at JKUAT, passionate about **Full-Stack Developme
 
 ## 🚀 Projects
 - [Disease Prediction Toolkit](https://github.com/Felix-wainaina/Disease-Prediction-Toolkit) – Predict diseases using ML models.
-- [Episim Africa]([https://github.com/Felix-wainaina/Lovable](https://github.com/Judhunja/episim-africa.git)) – Disease modelling project.
+- [Episim Africa]((https://github.com/Judhunja/episim-africa.git)) – Disease modelling project.
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/felix-nduati-b3370b2b4)
